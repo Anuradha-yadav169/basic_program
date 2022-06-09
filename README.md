@@ -1,3 +1,3 @@
 # basic_program
-# second_file
+# second_file_structure
 index.html
